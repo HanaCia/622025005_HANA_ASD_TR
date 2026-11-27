@@ -1,0 +1,11 @@
+# Hasil kompilasi
+*.exe
+*.o
+*.out
+smart_parking
+
+# Pengaturan editor
+.vscode/
+
+# Alat uji Windows (file .bat tidak ikut di-push agar language bar tetap C 100%)
+WINDOWS_TEST/
